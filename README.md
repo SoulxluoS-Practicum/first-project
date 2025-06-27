@@ -27,3 +27,9 @@
 - foo
 - foooo
 - fooooo
+
+## Task list:
+- [x] Update README.md
+- [ ] Lots and lots of things to do...
+- [ ] Finish Java-developer Course
+- [ ] Find a job and get started
