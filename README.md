@@ -98,4 +98,4 @@ Date:   Fri Jun 27 22:27:58 2025 +0500
 - Для файлов в состояниях staged и modified обычно не указывается, что они также tracked, потому что это состояние подразумевается.
 - Команда git add добавляет в staging area только текущее содержимое файла. Если вы, например, сделаете git add file.txt, а затем измените file.txt, то новое содержимое файла не будет находиться в staging. Git сообщит об этом с помощью статуса modified: файл изменён относительно той версии, которая уже в staging. Чтобы добавить в staging последнюю версию, нужно выполнить git add file.txt ещё раз.
 
-<img src="[common/src/main/resources/sodium-icon.png](https://pictures.s3.yandex.net/resources/M2_T5_1705508985.png)">
+![Типичный жизненный цикл файла в Git](https://pictures.s3.yandex.net/resources/M2_T5_1705508985.png)
